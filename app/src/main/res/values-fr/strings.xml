@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Substitution Cypher</string>
+
+    <string name="text_key">Clé</string>
+
+    <string name="clipboard_encrypted_text">Texte encrypté</string>
+
+    <string name="edit_text">Appuyez pour écrire du texte</string>
+
+    <string name="button_encrypt">ENCRYPTER</string>
+
+    <string name="button_decrypt">DECRYPTER</string>
+
+    <string name="text_view_result">Le résultat va être affiché ici.</string>
+
+    <string name="text_view_key">Clé: %05d</string>
+
+    <string name="no_internet_connection">Pas de connexion internet...</string>
+
+    <string name="connexion_error">Erreur lors de la communication avec le serveur</string>
+
+    <string name="json_error">Le message que vous utilisez contient des caractères illégals (utilise A-z " " ".")</string>
+
+    <string name="server_error">Réessayer plus tard, le serveur subie des erreurs</string>
+
+    <string name="intent_label">Encrypter votre message</string>
+</resources>

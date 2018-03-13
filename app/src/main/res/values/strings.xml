@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Substitution Cypher</string>
+
+    <string name="text_key">Key</string>
+	
+	<string name="clipboard_encrypted_text">Encrypted text</string>
+
+    <string name="edit_text">Tap to input some text</string>
+
+    <string name="button_encrypt">ENCRYPT</string>
+
+    <string name="button_decrypt">DECRYPT</string>
+
+    <string name="text_view_result">Result will be shown here</string>
+
+    <string name="text_view_key">Key: %05d</string>
+
+    <string name="no_internet_connection">No internet connection...</string>
+
+    <string name="connexion_error">Error when trying to connect to the server</string>
+
+    <string name="json_error">The message you are trying to use has illegal characters (use A-z " " ".")</string>
+
+    <string name="server_error">Try again later, the server is having issues</string>
+
+    <string name="intent_label">Encrypt your message</string>
+</resources>
